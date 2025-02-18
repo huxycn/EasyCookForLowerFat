@@ -17,4 +17,7 @@
 理论基础：
 - 各种不同食物营养素占比是多少
 - 每天各种食物要吃多少，切配的时候就可以按份处理好，用便签标号重量和日期
-  
+
+参考：
+- https://github.com/Anduin2017/HowToCook
+- https://github.com/YunYouJun/cook
